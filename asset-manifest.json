@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/BaliNusantara/static/css/main.0243a7e5.css",
-    "main.js": "/BaliNusantara/static/js/main.7aee77ae.js",
+    "main.js": "/BaliNusantara/static/js/main.972b3a07.js",
     "static/media/ratuanom.mp3": "/BaliNusantara/static/media/ratuanom.aff7bdfb30803365dead.mp3",
     "static/media/artem-beliaikin-_7AOeMSNAEw-unsplash.jpg": "/BaliNusantara/static/media/artem-beliaikin-_7AOeMSNAEw-unsplash.b5e58f64a6c3808d6be9.jpg",
     "static/media/bali3.png": "/BaliNusantara/static/media/bali3.ba6970f993afd0ec7b1c.png",
@@ -42,10 +42,10 @@
     "static/media/home.png": "/BaliNusantara/static/media/home.7165fb1d3cd573a69cdf.png",
     "index.html": "/BaliNusantara/index.html",
     "main.0243a7e5.css.map": "/BaliNusantara/static/css/main.0243a7e5.css.map",
-    "main.7aee77ae.js.map": "/BaliNusantara/static/js/main.7aee77ae.js.map"
+    "main.972b3a07.js.map": "/BaliNusantara/static/js/main.972b3a07.js.map"
   },
   "entrypoints": [
     "static/css/main.0243a7e5.css",
-    "static/js/main.7aee77ae.js"
+    "static/js/main.972b3a07.js"
   ]
 }

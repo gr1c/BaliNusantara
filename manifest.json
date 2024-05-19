@@ -1,14 +1,14 @@
 {
-  "short_name": "Bali Nusantara",
-  "name": "Your Favourite Balinese Food Website",
+  "short_name": "BaliNusantara",
+  "name": "BaliNusantara",
   "icons": [
     {
-      "src": "bali.png",
+      "src": "./bali.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "bali.png",
+      "src": "./bali.png",
       "type": "image/png",
       "sizes": "512x512"
     }
